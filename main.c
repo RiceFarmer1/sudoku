@@ -108,16 +108,16 @@ const char const *words_list[1141] = { "abducting", "abduction", "abjection", "a
 
 // Here a random solved numerical sudoku board I found on this website: https://sandiway.arizona.edu/sudoku/examples.htm; it will used later to generate a word sudoku board
 const int number_sudoku[9][9] = { 1, 5, 2,   4, 8, 9,   3, 7, 6,
-								  7, 3, 9,   2, 5, 6,   8, 4, 1,
-								  4, 6, 8,   3, 7, 1,   2, 9, 5,
-
-								  3, 8, 7,   1, 2, 4,   6, 5, 9,
-								  5, 9, 1,   7, 6, 3,   4, 2, 8,
-								  2, 4, 6,   8, 9, 5,   7, 1, 3,
-
-								  9, 1, 4,   6, 3, 7,   5, 8, 2,
-								  6, 2, 5,   9, 4, 8,   1, 3, 7,
-								  8, 7, 3,   5, 1, 2,   9, 6, 4 };
+				  7, 3, 9,   2, 5, 6,   8, 4, 1,
+				  4, 6, 8,   3, 7, 1,   2, 9, 5,
+				 
+				  3, 8, 7,   1, 2, 4,   6, 5, 9,
+				  5, 9, 1,   7, 6, 3,   4, 2, 8,
+				  2, 4, 6,   8, 9, 5,   7, 1, 3,
+				 
+				  9, 1, 4,   6, 3, 7,   5, 8, 2,
+				  6, 2, 5,   9, 4, 8,   1, 3, 7,
+				  8, 7, 3,   5, 1, 2,   9, 6, 4 };
 
 /* 
 Purpose: To display the instructions of the game for the user.

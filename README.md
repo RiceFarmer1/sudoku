@@ -1,3 +1,3 @@
-# Sudoku
+# Word Sudoku
 
-I will improve this in the future
+Sudoku but with letters
